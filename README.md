@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data-Analyst-Portfolio https://www.datascienceportfol.io/c300krish
 
 Introduction
 I'm Krish Patel, a data analyst specializing in transforming complex datasets into actionable business insights. My portfolio showcases my expertise in data visualization, analytics, and implementing technological solutions that enhance business operations and decision-making. Based in King City, CA, I'm currently completing my final year at SJSU with a focus on data analytics and IT, driven by my passion for technology and data-driven solutions.
